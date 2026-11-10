@@ -1,0 +1,796 @@
+{
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-noida/index.html",
+      "destination": "/projects-in-noida",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/index.html",
+      "destination": "/projects-in-greater-noida",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/index.html",
+      "destination": "/projects-in-ghaziabad",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-yamuna-city/index.html",
+      "destination": "/projects/gaur-yamuna-city",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-yamuna-city",
+      "destination": "/projects/gaur-yamuna-city",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-yamuna-city/index.html",
+      "destination": "/projects/gaur-yamuna-city",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-yamuna-city-krishnvilas/index.html",
+      "destination": "/projects/gaur-yamuna-city-krishnvilas",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-yamuna-city-krishnvilas",
+      "destination": "/projects/gaur-yamuna-city-krishnvilas",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-yamuna-city-krishnvilas/index.html",
+      "destination": "/projects/gaur-yamuna-city-krishnvilas",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/aero-heights/index.html",
+      "destination": "/projects/aero-heights",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/aero-heights",
+      "destination": "/projects/aero-heights",
+      "permanent": true
+    },
+    {
+      "source": "/aero-heights/index.html",
+      "destination": "/projects/aero-heights",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/passport-studios-by-gaurs/index.html",
+      "destination": "/projects/passport-studios-by-gaurs",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/passport-studios-by-gaurs",
+      "destination": "/projects/passport-studios-by-gaurs",
+      "permanent": true
+    },
+    {
+      "source": "/passport-studios-by-gaurs/index.html",
+      "destination": "/projects/passport-studios-by-gaurs",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-yamuna-city-gaurs-runway-suites/index.html",
+      "destination": "/projects/gaur-yamuna-city-gaurs-runway-suites",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-yamuna-city-gaurs-runway-suites",
+      "destination": "/projects/gaur-yamuna-city-gaurs-runway-suites",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-yamuna-city-gaurs-runway-suites/index.html",
+      "destination": "/projects/gaur-yamuna-city-gaurs-runway-suites",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-yamuna-city-the-hub-gaurs-runway-suites/index.html",
+      "destination": "/projects/gaur-yamuna-city-the-hub-gaurs-runway-suites",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-yamuna-city-the-hub-gaurs-runway-suites",
+      "destination": "/projects/gaur-yamuna-city-the-hub-gaurs-runway-suites",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-yamuna-city-the-hub-gaurs-runway-suites/index.html",
+      "destination": "/projects/gaur-yamuna-city-the-hub-gaurs-runway-suites",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-city-7th-avenue/index.html",
+      "destination": "/projects/gaur-city-7th-avenue",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-city-7th-avenue",
+      "destination": "/projects/gaur-city-7th-avenue",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-city-7th-avenue/index.html",
+      "destination": "/projects/gaur-city-7th-avenue",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-city-14th-avenue/index.html",
+      "destination": "/projects/gaur-city-14th-avenue",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-city-14th-avenue",
+      "destination": "/projects/gaur-city-14th-avenue",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-city-14th-avenue/index.html",
+      "destination": "/projects/gaur-city-14th-avenue",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-aero-mall/index.html",
+      "destination": "/projects/gaur-aero-mall",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-aero-mall",
+      "destination": "/projects/gaur-aero-mall",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-aero-mall/index.html",
+      "destination": "/projects/gaur-aero-mall",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-world-smartstreet/index.html",
+      "destination": "/projects/gaur-world-smartstreet",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-world-smartstreet",
+      "destination": "/projects/gaur-world-smartstreet",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-world-smartstreet/index.html",
+      "destination": "/projects/gaur-world-smartstreet",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-city-center/index.html",
+      "destination": "/projects/gaur-city-center",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-city-center",
+      "destination": "/projects/gaur-city-center",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-city-center/index.html",
+      "destination": "/projects/gaur-city-center",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/lpw/index.html",
+      "destination": "/projects/lpw",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/lpw",
+      "destination": "/projects/lpw",
+      "permanent": true
+    },
+    {
+      "source": "/lpw/index.html",
+      "destination": "/projects/lpw",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-aero-suites/index.html",
+      "destination": "/projects/gaur-aero-suites",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-aero-suites",
+      "destination": "/projects/gaur-aero-suites",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-aero-suites/index.html",
+      "destination": "/projects/gaur-aero-suites",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-yamuna-city-aero-city/index.html",
+      "destination": "/projects/gaur-yamuna-city-aero-city",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-yamuna-city-aero-city",
+      "destination": "/projects/gaur-yamuna-city-aero-city",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-yamuna-city-aero-city/index.html",
+      "destination": "/projects/gaur-yamuna-city-aero-city",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/office-spaces-at-gaur-city-mall/index.html",
+      "destination": "/projects/office-spaces-at-gaur-city-mall",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/office-spaces-at-gaur-city-mall",
+      "destination": "/projects/office-spaces-at-gaur-city-mall",
+      "permanent": true
+    },
+    {
+      "source": "/office-spaces-at-gaur-city-mall/index.html",
+      "destination": "/projects/office-spaces-at-gaur-city-mall",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-airocity/index.html",
+      "destination": "/projects/gaur-airocity",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-airocity",
+      "destination": "/projects/gaur-airocity",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-airocity/index.html",
+      "destination": "/projects/gaur-airocity",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-waterfront-plots-1st-b-parkview/index.html",
+      "destination": "/projects/gaur-waterfront-plots-1st-b-parkview",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-waterfront-plots-1st-b-parkview",
+      "destination": "/projects/gaur-waterfront-plots-1st-b-parkview",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-waterfront-plots-1st-b-parkview/index.html",
+      "destination": "/projects/gaur-waterfront-plots-1st-b-parkview",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-lakeshore-villas-1st-a-parkview/index.html",
+      "destination": "/projects/gaur-lakeshore-villas-1st-a-parkview",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-lakeshore-villas-1st-a-parkview",
+      "destination": "/projects/gaur-lakeshore-villas-1st-a-parkview",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-lakeshore-villas-1st-a-parkview/index.html",
+      "destination": "/projects/gaur-lakeshore-villas-1st-a-parkview",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/victorian-villas-6th-parkview/index.html",
+      "destination": "/projects/victorian-villas-6th-parkview",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/victorian-villas-6th-parkview",
+      "destination": "/projects/victorian-villas-6th-parkview",
+      "permanent": true
+    },
+    {
+      "source": "/victorian-villas-6th-parkview/index.html",
+      "destination": "/projects/victorian-villas-6th-parkview",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/32nd-parkview/index.html",
+      "destination": "/projects/32nd-parkview",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/32nd-parkview",
+      "destination": "/projects/32nd-parkview",
+      "permanent": true
+    },
+    {
+      "source": "/32nd-parkview/index.html",
+      "destination": "/projects/32nd-parkview",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-alaris/index.html",
+      "destination": "/projects/gaur-alaris",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-alaris",
+      "destination": "/projects/gaur-alaris",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-alaris/index.html",
+      "destination": "/projects/gaur-alaris",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-chrysalis/index.html",
+      "destination": "/projects/gaur-chrysalis",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-chrysalis",
+      "destination": "/projects/gaur-chrysalis",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-chrysalis/index.html",
+      "destination": "/projects/gaur-chrysalis",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/legacy-by-gaurs/index.html",
+      "destination": "/projects/legacy-by-gaurs",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/legacy-by-gaurs",
+      "destination": "/projects/legacy-by-gaurs",
+      "permanent": true
+    },
+    {
+      "source": "/legacy-by-gaurs/index.html",
+      "destination": "/projects/legacy-by-gaurs",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-nyc-residences/index.html",
+      "destination": "/projects/gaur-nyc-residences",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-nyc-residences",
+      "destination": "/projects/gaur-nyc-residences",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-nyc-residences/index.html",
+      "destination": "/projects/gaur-nyc-residences",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/aspire-leisure-park-by-gaurs/index.html",
+      "destination": "/projects/aspire-leisure-park-by-gaurs",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/aspire-leisure-park-by-gaurs",
+      "destination": "/projects/aspire-leisure-park-by-gaurs",
+      "permanent": true
+    },
+    {
+      "source": "/aspire-leisure-park-by-gaurs/index.html",
+      "destination": "/projects/aspire-leisure-park-by-gaurs",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/aspire-centurian-park-by-gaurs/index.html",
+      "destination": "/projects/aspire-centurian-park-by-gaurs",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/aspire-centurian-park-by-gaurs",
+      "destination": "/projects/aspire-centurian-park-by-gaurs",
+      "permanent": true
+    },
+    {
+      "source": "/aspire-centurian-park-by-gaurs/index.html",
+      "destination": "/projects/aspire-centurian-park-by-gaurs",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-city/index.html",
+      "destination": "/projects/gaur-city",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-city",
+      "destination": "/projects/gaur-city",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-city/index.html",
+      "destination": "/projects/gaur-city",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-saundaryam-phase-1/index.html",
+      "destination": "/projects/gaur-saundaryam-phase-1",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-saundaryam-phase-1",
+      "destination": "/projects/gaur-saundaryam-phase-1",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-saundaryam-phase-1/index.html",
+      "destination": "/projects/gaur-saundaryam-phase-1",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/16th-parkview-independent-floor/index.html",
+      "destination": "/projects/16th-parkview-independent-floor",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/16th-parkview-independent-floor",
+      "destination": "/projects/16th-parkview-independent-floor",
+      "permanent": true
+    },
+    {
+      "source": "/16th-parkview-independent-floor/index.html",
+      "destination": "/projects/16th-parkview-independent-floor",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/7th-parkview/index.html",
+      "destination": "/projects/7th-parkview",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/7th-parkview",
+      "destination": "/projects/7th-parkview",
+      "permanent": true
+    },
+    {
+      "source": "/7th-parkview/index.html",
+      "destination": "/projects/7th-parkview",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-cascades/index.html",
+      "destination": "/projects/gaur-cascades",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-cascades",
+      "destination": "/projects/gaur-cascades",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-cascades/index.html",
+      "destination": "/projects/gaur-cascades",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-valerio/index.html",
+      "destination": "/projects/gaur-valerio",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-valerio",
+      "destination": "/projects/gaur-valerio",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-valerio/index.html",
+      "destination": "/projects/gaur-valerio",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-noida/gaur-grandeur/index.html",
+      "destination": "/projects/gaur-grandeur",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-noida/gaur-grandeur",
+      "destination": "/projects/gaur-grandeur",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-grandeur/index.html",
+      "destination": "/projects/gaur-grandeur",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-global-village/index.html",
+      "destination": "/projects/gaur-global-village",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-global-village",
+      "destination": "/projects/gaur-global-village",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-global-village/index.html",
+      "destination": "/projects/gaur-global-village",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-ganga-2/index.html",
+      "destination": "/projects/gaur-ganga-2",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-ganga-2",
+      "destination": "/projects/gaur-ganga-2",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-ganga-2/index.html",
+      "destination": "/projects/gaur-ganga-2",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-ganga-1/index.html",
+      "destination": "/projects/gaur-ganga-1",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-ganga-1",
+      "destination": "/projects/gaur-ganga-1",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-ganga-1/index.html",
+      "destination": "/projects/gaur-ganga-1",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-ganga/index.html",
+      "destination": "/projects/gaur-ganga",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-ganga",
+      "destination": "/projects/gaur-ganga",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-ganga/index.html",
+      "destination": "/projects/gaur-ganga",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-green-vista/index.html",
+      "destination": "/projects/gaur-green-vista",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-green-vista",
+      "destination": "/projects/gaur-green-vista",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-green-vista/index.html",
+      "destination": "/projects/gaur-green-vista",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-homes/index.html",
+      "destination": "/projects/gaur-homes",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-homes",
+      "destination": "/projects/gaur-homes",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-homes/index.html",
+      "destination": "/projects/gaur-homes",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-heights/index.html",
+      "destination": "/projects/gaur-heights",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-heights",
+      "destination": "/projects/gaur-heights",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-heights/index.html",
+      "destination": "/projects/gaur-heights",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-homes-elegante/index.html",
+      "destination": "/projects/gaur-homes-elegante",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-homes-elegante",
+      "destination": "/projects/gaur-homes-elegante",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-homes-elegante/index.html",
+      "destination": "/projects/gaur-homes-elegante",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-green-avenue/index.html",
+      "destination": "/projects/gaur-green-avenue",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-green-avenue",
+      "destination": "/projects/gaur-green-avenue",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-green-avenue/index.html",
+      "destination": "/projects/gaur-green-avenue",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-green-city/index.html",
+      "destination": "/projects/gaur-green-city",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-green-city",
+      "destination": "/projects/gaur-green-city",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-green-city/index.html",
+      "destination": "/projects/gaur-green-city",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-galaxy/index.html",
+      "destination": "/projects/gaur-galaxy",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-galaxy",
+      "destination": "/projects/gaur-galaxy",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-galaxy/index.html",
+      "destination": "/projects/gaur-galaxy",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-residency/index.html",
+      "destination": "/projects/gaur-residency",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-ghaziabad/gaur-residency",
+      "destination": "/projects/gaur-residency",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-residency/index.html",
+      "destination": "/projects/gaur-residency",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-city-galleria/index.html",
+      "destination": "/projects/gaur-city-galleria",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-city-galleria",
+      "destination": "/projects/gaur-city-galleria",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-city-galleria/index.html",
+      "destination": "/projects/gaur-city-galleria",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-city-plaza/index.html",
+      "destination": "/projects/gaur-city-plaza",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-city-plaza",
+      "destination": "/projects/gaur-city-plaza",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-city-plaza/index.html",
+      "destination": "/projects/gaur-city-plaza",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gyc-galleria-at-gaur-yamuna-city/index.html",
+      "destination": "/projects/gyc-galleria-at-gaur-yamuna-city",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gyc-galleria-at-gaur-yamuna-city",
+      "destination": "/projects/gyc-galleria-at-gaur-yamuna-city",
+      "permanent": true
+    },
+    {
+      "source": "/gyc-galleria-at-gaur-yamuna-city/index.html",
+      "destination": "/projects/gyc-galleria-at-gaur-yamuna-city",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-city-arcade/index.html",
+      "destination": "/projects/gaur-city-arcade",
+      "permanent": true
+    },
+    {
+      "source": "/projects-in-greater-noida/gaur-city-arcade",
+      "destination": "/projects/gaur-city-arcade",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-city-arcade/index.html",
+      "destination": "/projects/gaur-city-arcade",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=()"
+        },
+        {
+          "key": "Strict-Transport-Security",
+          "value": "max-age=63072000; includeSubDomains; preload"
+        },
+        {
+          "key": "Content-Security-Policy",
+          "value": "default-src 'self'; img-src 'self' data: https:; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://connect.facebook.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com data:; connect-src 'self' https://api.emailjs.com https://www.google-analytics.com https://connect.facebook.net; frame-ancestors 'self'"
+        }
+      ]
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
