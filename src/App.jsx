@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import { BrowserRouter, Navigate, Route, Routes, useLocation } from "react-router-dom";
 import CookieConsent from "./components/CookieConsent.jsx";
+import LeadPopup from "./components/LeadPopup.jsx";
 import Footer from "./components/Footer.jsx";
 import Header from "./components/Header.jsx";
 import { ToastProvider } from "./components/Toast.jsx";
@@ -78,6 +79,7 @@ export default function App() {
         </main>
         <Footer />
         <CookieConsent />
+        <LeadPopup />
       </ToastProvider>
     </BrowserRouter>
   );

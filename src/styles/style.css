@@ -461,3 +461,13 @@
     .shimmer{ animation:none; }
     .card:hover{ transform:none; }
   }
+
+/* Lead popup — home / project / city pages, once per session */
+.leadpop-overlay{ position:fixed; inset:0; background:rgba(8,12,10,.58); display:flex; align-items:center; justify-content:center; padding:16px; z-index:110; animation:leadpop-fade .25s ease; }
+.leadpop-wrap{ position:relative; width:100%; max-width:430px; max-height:92vh; overflow:auto; animation:leadpop-pop .28s ease; }
+.leadpop-wrap form.enquiry{ margin:0; }
+.leadpop-close{ position:absolute; top:6px; right:10px; z-index:2; background:none; border:0; font-size:1.75rem; line-height:1; cursor:pointer; color:var(--muted); padding:6px 8px; }
+.leadpop-close:hover{ color:var(--ink); }
+@keyframes leadpop-fade{ from{ opacity:0 } to{ opacity:1 } }
+@keyframes leadpop-pop{ from{ opacity:0; transform:translateY(14px) scale(.98) } to{ opacity:1; transform:none } }
+@media (prefers-reduced-motion: reduce){ .leadpop-overlay, .leadpop-wrap{ animation:none } }
