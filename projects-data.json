@@ -378,23 +378,44 @@
    "city": "greater-noida",
    "cityName": "Greater Noida",
    "name": "Gaur World SmartStreet",
-   "location": "Greater Noida",
+   "location": "Greater Noida West",
    "type": "Retail",
    "status": "Ongoing",
    "config": "Retail shops / offices / food outlets — 2461 shops approx.",
    "startingPrice": "",
-   "rera": "",
+   "rera": "UPRERAPRJ674297",
    "reraNote": "",
-   "overview": "Gaur World SmartStreet is a large retail and commercial development in Greater Noida (West) with about 2,461 shops spread from the lower ground floor to the seventh floor, covering shopping, restaurants, food courts, retail and offices, served by multiple lifts and escalators.",
+   "overview": "Gaur World SmartStreet is poised to be one of the greatest retail and commercial hubs in Greater Noida West. Located just 2.5 km from Gaur City, this teeming hub is home to a massive emporium exclusively for retail brands, shopping complexes, kiosks, food courts and office spaces, where brands and businesses will find opportunities that can lead to unprecedented success. Launched on 19 September 2019, the project is under construction with all approvals in place. (Overview and specifications as published on the official Gaurs Group project page.)",
    "highlights": [
-    "Retail shops / offices / food outlets — 2461 shops approx."
+    "2,461 retail shops (approx.) from Lower Ground to Seventh Floor",
+    "Just 2.5 km from Gaur City, Greater Noida West",
+    "Retail brands, shopping complexes, kiosks, food courts and office spaces",
+    "Two basement levels for parking and services",
+    "Launched 19 September 2019 — under construction, all approvals in place"
    ],
-   "amenities": [],
-   "locationAdvantages": [],
+   "amenities": [
+    "Food court",
+    "5 lifts for the shopping area (Otis / Fujitec / Kone or equivalent)",
+    "2 escalators",
+    "DX package air conditioning for shops and retail areas",
+    "Two-level basement parking"
+   ],
+   "locationAdvantages": [
+    "2.5 km from Gaur City",
+    "In the Greater Noida West commercial corridor, near the Gaur City circle",
+    "Noida Sector 18 / Atta Market side is reachable via the Noida–Greater Noida link roads"
+   ],
    "priceHeader": [],
    "priceRows": [],
    "hero": "/images/projects/gaur-world-smartstreet/hero.webp",
-   "gallery": [],
+   "gallery": [
+    "/images/projects/gaur-world-smartstreet/gallery-1.webp",
+    "/images/projects/gaur-world-smartstreet/gallery-2.webp",
+    "/images/projects/gaur-world-smartstreet/gallery-3.webp",
+    "/images/projects/gaur-world-smartstreet/gallery-4.webp",
+    "/images/projects/gaur-world-smartstreet/gallery-5.webp",
+    "/images/projects/gaur-world-smartstreet/gallery-6.webp"
+   ],
    "plans": [],
    "locationMap": "",
    "metaTitle": "Gaur World SmartStreet Greater Noida — Price on Request",
@@ -1259,12 +1280,18 @@
    "startingPrice": "",
    "rera": "",
    "reraNote": "No RERA number published on the official project page",
-   "overview": "Delivered residential project by Gaurs Group at Sector 4, Vaishali, Ghaziabad, with possession in Mar-2009 as listed on the official delivered projects page.",
+   "overview": "Delivered residential project by Gaurs Group at Sector 4, Vaishali, Ghaziabad, with possession in Mar-2009 as listed on the official delivered projects page. Vaishali is an established residential sector of Ghaziabad with Delhi Metro Blue Line connectivity and road access via NH-9 towards Delhi and Meerut.",
    "highlights": [
-    "Possession: Mar-2009"
+    "Delivered project — possession in March 2009, as listed by Gaurs Group",
+    "Sector 4, Vaishali — an established residential neighbourhood"
    ],
    "amenities": [],
-   "locationAdvantages": [],
+   "locationAdvantages": [
+    "Vaishali Metro Station (Delhi Metro Blue Line) serves the Vaishali area",
+    "NH-9 access via the Vaishali–Kaushambi corridor towards Delhi",
+    "Anand Vihar ISBT and Anand Vihar railway station are a short drive away",
+    "Kaushambi and Vasundhara are the neighbouring residential sectors"
+   ],
    "priceHeader": [],
    "priceRows": [],
    "hero": "/images/projects/gaur-ganga-2/hero.webp",
@@ -1346,12 +1373,18 @@
    "startingPrice": "",
    "rera": "",
    "reraNote": "No RERA number published on the official project page",
-   "overview": "Delivered residential project by Gaurs Group at Indirapuram, Ghaziabad, with possession in Dec-2009 as listed on the official delivered projects page.",
+   "overview": "Delivered residential project by Gaurs Group at Indirapuram, Ghaziabad, with possession in Dec-2009 as listed on the official delivered projects page. Indirapuram is an established residential township of Ghaziabad along the NH-9 corridor, next to Noida's Sector 62–63 office belt.",
    "highlights": [
-    "Possession: Dec-2009"
+    "Delivered project — possession in December 2009, as listed by Gaurs Group",
+    "Indirapuram — an established residential township in Ghaziabad"
    ],
    "amenities": [],
-   "locationAdvantages": [],
+   "locationAdvantages": [
+    "Along the NH-9 (Delhi–Meerut) corridor",
+    "Vaishali Metro Station (Blue Line) and Noida Electronic City (Sector 62) are the nearest metro options",
+    "Shipra Mall and Indirapuram Habitat Centre are in the neighbourhood",
+    "Noida Sector 62–63 office corridor is a short drive away"
+   ],
    "priceHeader": [],
    "priceRows": [],
    "hero": "/images/projects/gaur-green-vista/hero.webp",
