@@ -6,6 +6,16 @@
       "permanent": true
     },
     {
+      "source": "/gaur-nyc-residence",
+      "destination": "/projects/gaur-nyc-residences",
+      "permanent": true
+    },
+    {
+      "source": "/gaur-nyc-residence/",
+      "destination": "/projects/gaur-nyc-residences",
+      "permanent": true
+    },
+    {
       "source": "/projects-in-noida/index.html",
       "destination": "/projects-in-noida",
       "permanent": true

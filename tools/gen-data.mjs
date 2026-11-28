@@ -76,6 +76,8 @@ fs.writeFileSync(
 // ---------- vercel.json ----------
 const redirects = [
   { source: "/index.html", destination: "/", permanent: true },
+  { source: "/gaur-nyc-residence", destination: "/projects/gaur-nyc-residences", permanent: true },
+  { source: "/gaur-nyc-residence/", destination: "/projects/gaur-nyc-residences", permanent: true },
   ...CITIES.flatMap((c) => [
     { source: `/projects-in-${c}/index.html`, destination: `/projects-in-${c}`, permanent: true },
     { source: `/projects-in-${c}`, destination: `/projects-in-${c}`, permanent: false },
